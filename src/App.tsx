@@ -127,7 +127,7 @@ const beats = [
   },
   {
     title: "SILK ROAD",
-    producer: "Al-Djandali Ustas",
+    producer: "Rolan Abbasguliev",
     bpm: 96,
     key: "C min",
     genre: "R&B",
@@ -147,7 +147,7 @@ const beats = [
   },
   {
     title: "NO SIGNAL",
-    producer: "Astra",
+    producer: "Jali",
     bpm: 150,
     key: "D# min",
     genre: "Drill",
@@ -639,7 +639,7 @@ function App() {
               />
               <div>
                 <span>Artist · SAINT-PETERSBURG</span>
-                <h3>AL-DJANDALI USTAS</h3>
+                <h3>AL-DZHANDALI YUSTAS</h3>
               </div>
             </article>
           </div>
